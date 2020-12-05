@@ -1,2 +1,5 @@
 language: java
-jdk: oraclejdk9
+jdk: oraclejdk10
+# dist: trusty
+script:
+    - echo 'testing coming soon'
